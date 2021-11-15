@@ -2,7 +2,7 @@
 As part of my backend task, I build a full stack application to demonstrate the working of Youtube - API.
 ## Instructions to run the project
 
-Step 1: Download the ZIP folder or clone the project using git CLI.
+Step 1: Download the ZIP folder or clone the project using git CLI. <br>
 Step 2: Open terminal or Command Prompt and run the following command to navigate to the project folder.
 ```bash
 cd youtube-api
